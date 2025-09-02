@@ -44,6 +44,21 @@ Welcome to the documentation for the Django Todo application! This documentation
 - CRUD operations flow
 - Database interactions and security
 
+### [APIs](apis.md)
+- Converting HTML views to JSON APIs
+- Django REST Framework integration
+- API endpoint examples and usage
+
+### [JSON API Example](json_api_example.md)
+- Complete working implementation
+- Ready-to-use code for JsonResponse APIs
+- cURL examples and response formats
+
+### [URL Validation](url_validation.md)
+- Django URL parameter converters explained
+- When to use `<int:pk>` vs other converters
+- Best practices for URL design
+
 ## Quick Start
 
 If you're new to Django, start with:
